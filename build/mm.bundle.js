@@ -71093,7 +71093,7 @@ angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
     "app_id" : "com.moodle.moodlemobile",
-    "appname": "Edthailand Mobile App",
+    "appname": "Edthailand",
     "desktopappname": "Lms Desktop",
     "versioncode" : "2021",
     "versionname" : "3.4.0",

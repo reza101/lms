@@ -5,7 +5,7 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20210"
         version   = "3.4.0">
-    <name>Edthailand  Mobile App</name>
+    <name>Edthailand</name>
 
     <description>
 Edthailand Mobile official app
