@@ -71092,7 +71092,7 @@ angular.module('mm.addons.mod_workshop')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "com.Edthailand.lms",
     "appname": "Edthailand",
     "desktopappname": "Lms Desktop",
     "versioncode" : "2021",
@@ -71104,7 +71104,7 @@ angular.module('mm.core')
     "wsextservice" : "local_mobile",
   //  "demo_sites": {"student": {"url": "https://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "https://school.demo.moodle.net", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "lms",
     "siteurl": "lms.edthailand.com",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
